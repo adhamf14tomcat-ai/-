@@ -1,0 +1,6 @@
+{
+  "name": "بنك الساعات | Bank of Hours",
+  "description": "منصة مجتمعية لتبادل المهارات بين الناس باستخدام الوقت كعملة بدل المال: علّم ساعة، تعلّم ساعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
